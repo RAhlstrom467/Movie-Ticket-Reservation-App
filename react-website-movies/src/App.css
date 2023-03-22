@@ -1,0 +1,50 @@
+
+
+  body, h1, h2, h3, h4, h5, h6, p, a {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;    
+  }
+
+  h1{
+    margin-left: 45%;
+  }
+  
+  .movie{
+      width: 90%;
+      background-color: #d9f8ef;
+      margin: auto;
+      opacity: 0.7;
+      padding: 2% 2% 15% 2%;
+      justify-content: center;
+      font-size: medium;
+  }
+
+  .form-control{
+    height: 45px;
+  }
+
+  .allMovies{
+    width: 50%;
+    height: auto;
+    background-color: #d9f8f7;
+    opacity: 0.7;
+    margin-left: auto;
+    padding: 2% 2% 15% 2%;
+    justify-content: center;
+    font-size: medium;
+}
+
+.blur{
+  width: 50%;
+  height: auto;
+  background-color: #E6E6E6;
+  opacity: 0.7;
+  margin-left: auto;
+  padding: 2% 2% 15% 2%;
+  justify-content: center;
+  font-size: larger;
+}
+
+.seat{
+  margin: 3% 3.2% 2% 2%;
+}
