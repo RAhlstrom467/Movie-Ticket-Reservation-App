@@ -1,4 +1,5 @@
 # Movie-Ticket-Reservation-App
 
-Backend wrote in Springboot Java
-Frontend wrote in React.JS
+Backend Design wrote in Springboot Java
+
+Frontend Design wrote in React.JS
