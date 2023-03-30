@@ -1,5 +1,3 @@
 # Movie-Ticket-Reservation-App
 
-Backend Design wrote in Springboot Java
-
-Frontend Design wrote in React.JS
+Created a MySQL database for data storage and Spring Boot for RESTful APIs to communicate with a React.js frontend.
